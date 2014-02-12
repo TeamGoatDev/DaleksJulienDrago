@@ -56,3 +56,18 @@ Les Daleks, robots envahisseurs de l’espace intersidéral, cherchent à suppri
   
   L'application disposera d'une Vue de type Console, utilisant les fonctions print et input seulement en terme d'entrée  /sortie.
 
+
+
+###Buts de chaque cours
+
+##12 février 2014
+
+  Finir toute la documentation aujourd'hui.
+    - Mandat (émis depuis le 5 février 2014)
+    - Analyse linguistique
+    - Cas d'usage
+    - Schéma des services
+    - Visualisation (maquette d'interface)
+    - Modèle des données
+    - Traitement des objets
+    - Planification
